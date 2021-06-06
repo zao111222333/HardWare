@@ -14,18 +14,18 @@ https://mangopi.org/tiny200
 
 | INDEX | NAME | SOC | EDA | SCH | PCB | Verified |
 | :-:   | :-:  | :-: | :-: | :-: | :-: | :-: | 
-| [板0](#板0-MangoPi-R3) | MangoPi-R3 | F1C200S | AD & LCEDA | ✓ | ✓ | ✓ |
-| [板1](#板1-BoloPi) | BoloPI | F1C100S | AD | ✓ | ✓ | ✓ |
-| [板2](#板2-名片) | 名片 | F1C100S | KiCAD | ✓ | × | ✓ |
-| [板3](#板3-F1C100S原理图PCB可直接打样) | N/A | F1C100S | LCEDA | ✓ | ✓ | ✓ |
-| [板4](#板4-Tiny200) | Tiny200 | F1C200S |LCEDA | ✓ | ✓ | ✓ |
-| [板5](#板5-新作F1C200S) | N/A  | F1C200S | ? | ✓ | ✓ | ✓ |
-| [板6](#板6-全志F1C200s公版原理图与PCB) | 公板 | F1C200S | orCAD PADS | ✓ | ✓ | ✓ |
-| [板7](#板7-F1C100S-MY) | F1C100S-MY | F1C200S | orCAD PADS | ✓ | ✓ | ✓ |
-| [板8](#板8-M5Pi) | M5Pi | F1C200S | ? | × | × | ✓ |
+| [00](#00-MangoPi-R3) | MangoPi-R3 | F1C200S | AD & LCEDA | ✓ | ✓ | ✓ |
+| [01](#01-BoloPi) | BoloPI | F1C100S | AD | ✓ | ✓ | ✓ |
+| [02](#02-名片) | 名片 | F1C100S | KiCAD | ✓ | × | ✓ |
+| [03](#03-F1C100S原理图PCB可直接打样) | N/A | F1C100S | LCEDA | ✓ | ✓ | ✓ |
+| [04](#04-Tiny200) | Tiny200 | F1C200S |LCEDA | ✓ | ✓ | ✓ |
+| [05](#05-新作F1C200S) | N/A  | F1C200S | ? | ✓ | ✓ | ✓ |
+| [06](#06-全志F1C200s公版原理图与PCB) | 公板 | F1C200S | orCAD PADS | ✓ | ✓ | ✓ |
+| [07](#07-F1C100S-MY) | F1C100S-MY | F1C200S | orCAD PADS | ✓ | ✓ | ✓ |
+| [08](#08-M5Pi) | M5Pi | F1C200S | ? | × | × | ✓ |
 
 
-### 板0 [MangoPi-R3](MangoPi-R3)
+### 00 [MangoPi-R3](MangoPi-R3)
 #### [返回目录](#硬件)
 <img src="https://user-images.githubusercontent.com/57790433/120943026-0edb3680-c75f-11eb-8993-13d57082382a.png" alt="MangoPi-R3" width="300"/>
 
@@ -35,7 +35,7 @@ https://mangopi.org/tiny200
 
 ***
 
-### 板1 [BoloPi](BoloPi)
+### 01 [BoloPi](BoloPi)
 #### [返回目录](#硬件)
 
 <img src="https://raw.githubusercontent.com/VeiLiang/BoloPi_PCB/master/BoLoPi-F1_V4_Real.jpg" alt="BoloPi" width="300"/>
@@ -43,7 +43,7 @@ https://mangopi.org/tiny200
 
 ***
 
-### 板2 [名片](https://www.qbitai.com/2019/12/10221.html) 
+### 02 [名片](https://www.qbitai.com/2019/12/10221.html) 
 #### [返回目录](#硬件)
 
 博客地址：
@@ -65,7 +65,7 @@ https://www.thirtythreeforty.net/media/Allwinner_F1C600_User_Manual_V1.0.pdf
 
 ***
 
-### 板3 [F1C100S原理图PCB可直接打样](https://whycan.com/t_2094.html)
+### 03 [F1C100S原理图PCB可直接打样](https://whycan.com/t_2094.html)
 #### [返回目录](#硬件)
 
 <img src="https://user-images.githubusercontent.com/57790433/120939838-83f14080-c74c-11eb-9591-55abb07ae58d.png" alt="N/A" width="300"/>
@@ -74,31 +74,31 @@ https://www.thirtythreeforty.net/media/Allwinner_F1C600_User_Manual_V1.0.pdf
 
 ***
 
-### 板4 [Tiny200](https://oshwhub.com/LSW12315/f1c100score_copy_copy)
+### 04 [Tiny200](https://oshwhub.com/LSW12315/f1c100score_copy_copy)
 #### [返回目录](#硬件)
 <img src="https://image.lceda.cn/pullimage/MDXCONtl8z2ihsV57AZ0gjpPHu1tddpicxI6iONu.jpeg" alt="Tiny200" width="300"/>
 
 ***
 
-### 板5 [新作F1C200S](https://bbs.16rd.com/thread-569802-1-1.html)
+### 05 [新作F1C200S](https://bbs.16rd.com/thread-569802-1-1.html)
 #### [返回目录](#硬件)
 <img src="https://user-images.githubusercontent.com/57790433/120940217-c3b92780-c74e-11eb-949f-750b26218122.png" alt="N/A" width="300"/>
 
 ***
 
-### 板6 [全志F1C200s公版原理图与PCB](https://bbs.16rd.com/thread-533554-1-1.html)
+### 06 [全志F1C200s公版原理图与PCB](https://bbs.16rd.com/thread-533554-1-1.html)
 #### [返回目录](#硬件)
 
 ***
 
-### 板7 [F1C100S-MY](https://whycan.com/t_3926.html)
+### 07 [F1C100S-MY](https://whycan.com/t_3926.html)
 #### [返回目录](#硬件)
 <img src="https://user-images.githubusercontent.com/57790433/120940777-83a77400-c751-11eb-8511-53bc091d7026.png" alt="F1C100S-MY" width="300"/>
 <img src="https://user-images.githubusercontent.com/57790433/120940778-85713780-c751-11eb-9834-4eb5e9ce0d82.png" alt="F1C100S-MY" width="300"/>
 
 ***
 
-### 板8 [M5Pi](https://whycan.com/t_6402.html)
+### 08 [M5Pi](https://whycan.com/t_6402.html)
 
 <img src="https://user-images.githubusercontent.com/57790433/120941149-b5213f00-c753-11eb-98c4-b7913b82c9ee.png" alt="MangoPi-R3" width="300"/>
 
