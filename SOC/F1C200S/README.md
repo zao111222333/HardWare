@@ -12,20 +12,26 @@ https://mangopi.org/tiny200
 
 | INDEX | NAME | SOC | EDA | SCH | PCB | Verified |
 | :-:   | :-:  | :-: | :-: | :-: | :-: | :-: | 
-| [板0](#板0-MangoPi-R3) | MangoPi-R3 | F1C200S | AD | ✓ | ✓ | ✓ |
+| [板0](#板0-MangoPi-R3) | MangoPi-R3 | F1C200S | AD & LCEDA | ✓ | ✓ | ✓ |
 | [板1](#板1-BoloPi) | BoloPI | F1C100S | AD | ✓ | ✓ | ✓ |
 | [板2](#板2-名片) | 名片 | F1C100S | KiCAD | ✓ | × | ✓ |
 | [板3](#板3-F1C100S原理图PCB可直接打样) | N/A | F1C100S | LCEDA | ✓ | ✓ | ✓ |
 | [板4](#板4-Tiny200) | Tiny200 | F1C200S |LCEDA | ✓ | ✓ | ✓ |
 | [板5](#板5-新作F1C200S) | N/A  | F1C200S | ? | ✓ | ✓ | ✓ |
 | [板6](#板6-全志F1C200s公版原理图与PCB) | 公板 | F1C200S | orCAD PADS | ✓ | ✓ | ✓ |
-| [板6](#板6-全志F1C200s公版原理图与PCB) | 公板 | F1C200S | orCAD PADS | ✓ | ✓ | ✓ |
+| [板7](#板7-F1C100S-MY) | F1C100S-MY | F1C200S | orCAD PADS | ✓ | ✓ | ✓ |
 | [板8](#板8-M5Pi) | M5Pi | F1C200S | ? | × | × | ✓ |
 
 
 ### 板0 [MangoPi-R3](MangoPi-R3)
 #### [返回目录](#硬件)
+<img src="https://user-images.githubusercontent.com/57790433/120943026-0edb3680-c75f-11eb-8993-13d57082382a.png" alt="MangoPi-R3" width="300"/>
 
+<img src="https://user-images.githubusercontent.com/57790433/120942948-8fe5fe00-c75e-11eb-84f7-4891bb20e8ff.png" alt="MangoPi-R3" width="300"/>
+
+<img src="https://user-images.githubusercontent.com/57790433/120942980-cd4a8b80-c75e-11eb-8017-fa974500c507.png" alt="MangoPi-R3" width="300"/>
+
+***
 
 ### 板1 [BoloPi](BoloPi_PCB)
 #### [返回目录](#硬件)
