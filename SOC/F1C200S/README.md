@@ -97,5 +97,6 @@ https://www.thirtythreeforty.net/media/Allwinner_F1C600_User_Manual_V1.0.pdf
 ***
 
 ### 板8 [M5Pi](https://whycan.com/t_6402.html)
-![image](https://user-images.githubusercontent.com/57790433/120941149-b5213f00-c753-11eb-98c4-b7913b82c9ee.png)
+
+<img src="https://user-images.githubusercontent.com/57790433/120941149-b5213f00-c753-11eb-98c4-b7913b82c9ee.png" alt="MangoPi-R3" width="300"/>
 
