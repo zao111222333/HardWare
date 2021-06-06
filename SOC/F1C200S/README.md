@@ -1,4 +1,6 @@
 # F1C100S/F1C200S
+<img src="https://user-images.githubusercontent.com/57790433/120943246-4f877f80-c760-11eb-911d-5feb124b22b6.png" alt="Block Diagram" width="300"/>
+
 ## 软件
 [荔枝派社区](http://nano.lichee.pro/)
 
