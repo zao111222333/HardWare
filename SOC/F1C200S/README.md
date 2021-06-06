@@ -33,7 +33,7 @@ https://mangopi.org/tiny200
 
 ***
 
-### 板1 [BoloPi](BoloPi_PCB)
+### 板1 [BoloPi](BoloPi)
 #### [返回目录](#硬件)
 
 <img src="https://raw.githubusercontent.com/VeiLiang/BoloPi_PCB/master/BoLoPi-F1_V4_Real.jpg" alt="BoloPi" width="300"/>
