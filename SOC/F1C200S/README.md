@@ -28,7 +28,7 @@ https://mangopi.org/tiny200
 | [11](#11-F1C200S-CORE) | F1C200S-CORE | F1C200S | ? | ✓ | ✓ | ✓ |
 
 
-### 00 [MangoPi-R3](MangoPi-R3)
+### 00 [MangoPi-R3](HW/MangoPi-R3)
 #### [返回目录](#硬件)
 <img src="https://user-images.githubusercontent.com/57790433/120943026-0edb3680-c75f-11eb-8993-13d57082382a.png" alt="MangoPi-R3" width="300"/>
 
