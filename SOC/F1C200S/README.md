@@ -23,6 +23,7 @@ https://mangopi.org/tiny200
 | [06](#06-全志F1C200s公版原理图与PCB) | 公板 | F1C200S | orCAD PADS | ✓ | ✓ | ✓ |
 | [07](#07-F1C100S-MY) | F1C100S-MY | F1C100S | orCAD PADS | ✓ | ✓ | ✓ |
 | [08](#08-M5Pi) | M5Pi | F1C200S | ? | × | × | ✓ |
+| [09](#F1C200S-HDK) | F1C200S-HDK | F1C200S | KiCAD | ✓ | ✓ | ✓ |
 
 
 ### 00 [MangoPi-R3](MangoPi-R3)
