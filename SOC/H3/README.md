@@ -1,14 +1,8 @@
 # AllWinner H3
 
+![image](https://user-images.githubusercontent.com/57790433/121072268-8ebadc80-c803-11eb-88a6-e260fc5011d1.png)
 
 ## 软件
-[荔枝派社区](http://nano.lichee.pro/)
-
-[F1C200S/F1C100S学习笔记](https://blog.csdn.net/p1279030826/article/details/113370239?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-9&spm=1001.2101.3001.4242)
-
-https://wiki.dfrobot.com.cn/_SKU_DFR0780_MangoPi-R3
-
-https://mangopi.org/tiny200
 
 ## 硬件
 
