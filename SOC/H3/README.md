@@ -1,5 +1,5 @@
-# F1C100S/F1C200S
-<img src="https://user-images.githubusercontent.com/57790433/120943359-f1a76780-c760-11eb-92cd-925830682055.png" alt="Block Diagram" width="500"/>
+# AllWinner H3
+
 
 ## 软件
 [荔枝派社区](http://nano.lichee.pro/)
