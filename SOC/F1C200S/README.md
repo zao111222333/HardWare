@@ -20,7 +20,7 @@ https://mangopi.org/tiny200
 | [03](#03-MiniX) | MiniX | F1C100S | LCEDA | ✓ | ✓ | ✓ |
 | [04](#04-Tiny200s) | Tiny200s | F1C200S |LCEDA | ✓ | ✓ | ✓ |
 | [05](#05-F1C200S-BL) | F1C200S-BL | F1C200S | AD | ✓ | ✓ | ✓ |
-| [06](#06-F1C200S-DEMO) | 公板DEMO | F1C200S | orCAD PADS | ✓ | ✓ | ✓ |
+| [06](#06-F1C200S-STD) | F1C200S-STD | F1C200S | orCAD PADS | ✓ | ✓ | ✓ |
 | [07](#07-F1C100S-MY) | F1C100S-MY | F1C100S | ? | ✓ | ✓ | × |
 | [08](#08-M5Pi) | M5Pi | F1C200S | ? | ✓ | × | ✓ |
 | [09](#09-F1C200S-HDK) | F1C200S-HDK | F1C200S | KiCAD | ✓ | ✓ | ✓ |
@@ -100,11 +100,11 @@ https://whycan.com/t_5771.html
 
 ***
 
-### 06 [F1C200S-DEMO](HW/F1C200S-DEMO)
+### 06 [F1C200S-STD](HW/F1C200S-STD)
 #### [返回目录](#硬件)
 https://whycan.com/p_64201.html
 
-<img src="https://user-images.githubusercontent.com/57790433/120951957-9c794f00-c77c-11eb-8802-698758a3a627.png" alt="F1C200S-DEMO" width="300"/>
+<img src="https://user-images.githubusercontent.com/57790433/120951957-9c794f00-c77c-11eb-8802-698758a3a627.png" alt="F1C200S-STD" width="300"/>
 
 ***
 
