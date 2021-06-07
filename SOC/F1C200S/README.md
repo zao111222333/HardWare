@@ -17,11 +17,11 @@ https://mangopi.org/tiny200
 | [00](#00-MangoPi-R3) | MangoPi-R3 | F1C200S | AD & LCEDA | ✓ | ✓ | ✓ |
 | [01](#01-BoloPi) | BoloPI | F1C100S | AD | ✓ | ✓ | ✓ |
 | [02](#02-名片) | 名片 | F1C100S | KiCAD | ✓ | × | ✓ |
-| [03](#03-F1C100S原理图PCB可直接打样) | N/A | F1C100S | LCEDA | ✓ | ✓ | ✓ |
+| [03](#03-MiniX) | MiniX | F1C100S | LCEDA | ✓ | ✓ | ✓ |
 | [04](#04-Tiny200s) | Tiny200s | F1C200S |LCEDA | ✓ | ✓ | ✓ |
 | [05](#05-F1C200S-BL) | F1C200S-BL | F1C200S | AD | ✓ | ✓ | ✓ |
 | [06](#06-全志F1C200s公版原理图与PCB) | 公板 | F1C200S | orCAD PADS | ✓ | ✓ | ✓ |
-| [07](#07-F1C100S-MY) | F1C100S-MY | F1C200S | orCAD PADS | ✓ | ✓ | ✓ |
+| [07](#07-F1C100S-MY) | F1C100S-MY | F1C100S | orCAD PADS | ✓ | ✓ | ✓ |
 | [08](#08-M5Pi) | M5Pi | F1C200S | ? | × | × | ✓ |
 
 
@@ -65,8 +65,9 @@ https://www.thirtythreeforty.net/media/Allwinner_F1C600_User_Manual_V1.0.pdf
 
 ***
 
-### 03 [F1C100S原理图PCB可直接打样](https://whycan.com/t_2094.html)
+### 03 [MiniX](MiniX)
 #### [返回目录](#硬件)
+https://whycan.com/t_2094.html
 
 <img src="https://user-images.githubusercontent.com/57790433/120939838-83f14080-c74c-11eb-9591-55abb07ae58d.png" alt="N/A" width="300"/>
 
@@ -100,6 +101,9 @@ https://whycan.com/t_5771.html
 
 ### 07 [F1C100S-MY](https://whycan.com/t_3926.html)
 #### [返回目录](#硬件)
+
+https://whycan.com/t_3926.html
+
 <img src="https://user-images.githubusercontent.com/57790433/120940777-83a77400-c751-11eb-8511-53bc091d7026.png" alt="F1C100S-MY" width="300"/>
 <img src="https://user-images.githubusercontent.com/57790433/120940778-85713780-c751-11eb-9834-4eb5e9ce0d82.png" alt="F1C100S-MY" width="300"/>
 
