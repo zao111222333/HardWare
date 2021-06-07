@@ -114,3 +114,11 @@ https://whycan.com/t_3926.html
 
 <img src="https://user-images.githubusercontent.com/57790433/120941149-b5213f00-c753-11eb-98c4-b7913b82c9ee.png" alt="MangoPi-R3" width="300"/>
 
+### 09 [F1C200S-HDK](F1C200S-HDK)
+#### [返回目录](#硬件)
+https://whycan.cn/t_3688.html
+
+[动态BOM插件InteractiveHtmlBom](F1C200S-HDK/bom/ibom.html)
+
+<img src="https://user-images.githubusercontent.com/57790433/120946331-aa27d800-c76e-11eb-845a-0c536c9e6fc2.png" alt="F1C200S-HDK" width="300"/>
+<img src="https://user-images.githubusercontent.com/57790433/120946337-adbb5f00-c76e-11eb-919e-f56560b38b4b.png" alt="F1C200S-HDK" width="300"/>
