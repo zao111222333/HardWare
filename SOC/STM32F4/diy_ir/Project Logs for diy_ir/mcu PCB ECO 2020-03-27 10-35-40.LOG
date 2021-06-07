@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=PA3 Pin=GPIO0-4
+Removed Pin From Net: NetName=PA3 Pin=U1-43
+Change Component Designator: OldDesignator=P4 NewDesignator=P8
+Change Component Designator: OldDesignator=P5 NewDesignator=P9
+Added Component: Designator=IRDA_Sta_J(HDR2X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PC4 Pin=IRDA_Sta_J-1
+Added Pin To Net: NetName=PB4 Pin=IRDA_Sta_J-2
+Added Pin To Net: NetName=IRDA_SHOT Pin=IRDA_Sta_J-3
+Added Pin To Net: NetName=IRDA_SD Pin=IRDA_Sta_J-4
+Added Pin To Net: NetName=PC5 Pin=IRDA_Sta_J-5
+Added Pin To Net: NetName=PB5 Pin=IRDA_Sta_J-6
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=PA10 Pin=GPIO0-4
+Added Pin To Net: NetName=PA10 Pin=IRDA_Jumper-1
+Added Pin To Net: NetName=PA10 Pin=U1-43
+Added Net: Name=PA10
+Added Member To Class: ClassName=irda Member=Component IRDA_Sta_J Header 3X2

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=OSC32_IN Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=OSC32_OUT Pin=C19-2
+Removed Pin From Net: NetName=OSC32_IN Pin=Y2-1
+Removed Pin From Net: NetName=OSC32_OUT Pin=Y2-2
+Removed Member From Class: ClassName=mcuCore Member=C18
+Removed Member From Class: ClassName=mcuCore Member=C19
+Removed Member From Class: ClassName=mcuCore Member=Y2

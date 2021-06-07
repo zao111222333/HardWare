@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=AOUTR Pin=C27-2
+Removed Pin From Net: NetName=AOUTR Pin=R6-2
+Removed Member From Class: ClassName=power Member=
+Change Component Designator: OldDesignator= NewDesignator=MCU_JA
+Change Component Designator: OldDesignator= NewDesignator=P8
+Change Component Designator: OldDesignator= NewDesignator=P9
+Added Pin To Net: NetName=AOUTL Pin=C27-2
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=R6-2
+Added Member To Class: ClassName=power Member=Component P5 12V
+Added Member To Class: ClassName=audio Member=Component P8 Header 3X2
+Added Member To Class: ClassName=audio Member=Component P9 Header 3X2
+Added Room: Name=audio
+Added Room: Name=mcuCore

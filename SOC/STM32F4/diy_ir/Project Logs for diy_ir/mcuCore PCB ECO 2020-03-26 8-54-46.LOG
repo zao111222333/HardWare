@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=NetC11_2 Pin=VR1-4
+Added Component: Designator=U1(LQFP64-10x10mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2016 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "stm32f4x5rg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetPC_27 Pin=U1-2
+Added Pin To Net: NetName=OSC_IN Pin=U1-5
+Added Pin To Net: NetName=OSC_OUT Pin=U1-6
+Added Pin To Net: NetName=RESET Pin=U1-7
+Added Pin To Net: NetName=NetPC_1 Pin=U1-8
+Added Pin To Net: NetName=NetPC_3 Pin=U1-9
+Added Pin To Net: NetName=NetPC_5 Pin=U1-10
+Added Pin To Net: NetName=NetPC_7 Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=NetC6_1 Pin=U1-13
+Added Pin To Net: NetName=NetPA_1 Pin=U1-14
+Added Pin To Net: NetName=NetPA_3 Pin=U1-15
+Added Pin To Net: NetName=NetPA_5 Pin=U1-16
+Added Pin To Net: NetName=NetPA_7 Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=VCC Pin=U1-19
+Added Pin To Net: NetName=NetPA_9 Pin=U1-20
+Added Pin To Net: NetName=NetPA_11 Pin=U1-21
+Added Pin To Net: NetName=NetPA_13 Pin=U1-22
+Added Pin To Net: NetName=NetPA_15 Pin=U1-23
+Added Pin To Net: NetName=NetPC_9 Pin=U1-24
+Added Pin To Net: NetName=NetPC_11 Pin=U1-25
+Added Pin To Net: NetName=NetPB_1 Pin=U1-26
+Added Pin To Net: NetName=NetPB_3 Pin=U1-27
+Added Pin To Net: NetName=NetPB_17 Pin=U1-28
+Added Pin To Net: NetName=NetPB_21 Pin=U1-29
+Added Pin To Net: NetName=NetPB_23 Pin=U1-30
+Added Pin To Net: NetName=NetC8_1 Pin=U1-31
+Added Pin To Net: NetName=VCC Pin=U1-32
+Added Pin To Net: NetName=NetPB_25 Pin=U1-33
+Added Pin To Net: NetName=NetPB_27 Pin=U1-34
+Added Pin To Net: NetName=NetPB_29 Pin=U1-35
+Added Pin To Net: NetName=NetPB_31 Pin=U1-36
+Added Pin To Net: NetName=NetPC_13 Pin=U1-37
+Added Pin To Net: NetName=NetPC_15 Pin=U1-38
+Added Pin To Net: NetName=NetPC_17 Pin=U1-39
+Added Pin To Net: NetName=NetPC_19 Pin=U1-40
+Added Pin To Net: NetName=NetPA_17 Pin=U1-41
+Added Pin To Net: NetName=NetPA_19 Pin=U1-42
+Added Pin To Net: NetName=NetPA_21 Pin=U1-43
+Added Pin To Net: NetName=NetPA_23 Pin=U1-44
+Added Pin To Net: NetName=NetPA_25 Pin=U1-45
+Added Pin To Net: NetName=NetPA_27 Pin=U1-46
+Added Pin To Net: NetName=NetC8_1 Pin=U1-47
+Added Pin To Net: NetName=VCC Pin=U1-48
+Added Pin To Net: NetName=NetPA_29 Pin=U1-49
+Added Pin To Net: NetName=NetPA_31 Pin=U1-50
+Added Pin To Net: NetName=NetPC_21 Pin=U1-51
+Added Pin To Net: NetName=NetPC_23 Pin=U1-52
+Added Pin To Net: NetName=NetPC_25 Pin=U1-53
+Added Pin To Net: NetName=NetPB_5 Pin=U1-55
+Added Pin To Net: NetName=NetPB_7 Pin=U1-56
+Added Pin To Net: NetName=NetPB_9 Pin=U1-57
+Added Pin To Net: NetName=NetPB_11 Pin=U1-58
+Added Pin To Net: NetName=NetPB_13 Pin=U1-59
+Added Pin To Net: NetName=BOOT0 Pin=U1-60
+Added Pin To Net: NetName=NetPB_15 Pin=U1-61
+Added Pin To Net: NetName=NetPB_19 Pin=U1-62
+Added Pin To Net: NetName=GND Pin=U1-63
+Added Pin To Net: NetName=VCC Pin=U1-64
+Added Pin To Net: NetName=NetPC_29 Pin=PC-29
+Added Pin To Net: NetName=NetPC_29 Pin=PC-30
+Added Pin To Net: NetName=NetPC_29 Pin=U1-3
+Added Net: Name=NetPC_29
+Added Pin To Net: NetName=NetPC_31 Pin=PC-31
+Added Pin To Net: NetName=NetPC_31 Pin=PC-32
+Added Pin To Net: NetName=NetPC_31 Pin=U1-4
+Added Net: Name=NetPC_31
+Added Member To Class: ClassName=mcuCore Member=Component U1 Part Number: stm32f4x5rg

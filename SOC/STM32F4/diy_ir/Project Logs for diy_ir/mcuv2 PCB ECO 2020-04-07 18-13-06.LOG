@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=+5 Pin=JUSB_V5-1
+Removed Pin From Net: NetName=NetD4_1 Pin=USB-5
+Change Component Footprint: Designator=D4 Old Footprint=3.2X1.6X1.1 New Footprint=425
+Added Pin To Net: NetName=+5 Pin=D4-2
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetD4_1 Pin=JUSB_V5-1
+Added Pin To Net: NetName=NetJUSB_V5_2 Pin=JUSB_V5-2
+Added Pin To Net: NetName=NetJUSB_V5_2 Pin=USB-5
+Added Net: Name=NetJUSB_V5_2
+Added Room: Name=mcuCore

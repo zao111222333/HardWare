@@ -1,0 +1,39 @@
+Added Component: Designator=TFBS4711(TFBS4711)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=NetIRDA_8 Pin=TFBS4711-1
+Added Pin To Net: NetName=IRDA_TXD Pin=TFBS4711-2
+Added Pin To Net: NetName=IRDA_RXD Pin=TFBS4711-3
+Added Pin To Net: NetName=IRDA_SD Pin=TFBS4711-4
+Added Pin To Net: NetName=VCC Pin=TFBS4711-5
+Added Pin To Net: NetName=AOUTG Pin=TFBS4711-6
+Added Member To Class: ClassName=irda Member=Component TFBS4711

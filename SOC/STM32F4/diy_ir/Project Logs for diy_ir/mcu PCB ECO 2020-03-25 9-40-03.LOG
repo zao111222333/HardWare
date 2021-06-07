@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=Btn1-2
+Removed Pin From Net: NetName=GND Pin=D?-2
+Change Component Footprint: Designator=Btn1 Old Footprint=PCBComponent_1 New Footprint=DC_Jack
+Added Pin To Net: NetName=NetBtn1_2 Pin=Btn1-2
+Added Pin To Net: NetName=NetBtn1_2 Pin=D?-2
+Added Net: Name=NetBtn1_2

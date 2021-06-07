@@ -1,0 +1,109 @@
+Removed Pin From Net: NetName=NetPC_1 Pin=PC-2
+Removed Pin From Net: NetName=NetPC_3 Pin=PC-4
+Removed Pin From Net: NetName=NetPC_5 Pin=PC-6
+Removed Pin From Net: NetName=NetPC_7 Pin=PC-8
+Removed Pin From Net: NetName=NetPC_9 Pin=PC-10
+Removed Pin From Net: NetName=NetPC_11 Pin=PC-12
+Removed Pin From Net: NetName=NetPC_13 Pin=PC-14
+Removed Pin From Net: NetName=NetPC_15 Pin=PC-16
+Removed Pin From Net: NetName=NetPC_17 Pin=PC-18
+Removed Pin From Net: NetName=NetPC_19 Pin=PC-20
+Removed Pin From Net: NetName=NetPC_21 Pin=PC-22
+Removed Pin From Net: NetName=NetPC_23 Pin=PC-24
+Removed Pin From Net: NetName=NetPC_25 Pin=PC-26
+Removed Pin From Net: NetName=NetPC_27 Pin=PC-28
+Removed Pin From Net: NetName=NetPC_29 Pin=PC-30
+Removed Pin From Net: NetName=NetPC_31 Pin=PC-32
+Removed Pin From Net: NetName=BOOT0 Pin=R3-1
+Added Pin To Net: NetName=NetLabel41 Pin=R3-1
+Added Net: Name=NetLabel41
+Added Pin To Net: NetName=NetPA_2 Pin=PA-2
+Added Pin To Net: NetName=NetPA_2 Pin=U1-14
+Added Net: Name=NetPA_2
+Added Pin To Net: NetName=NetPA_4 Pin=PA-4
+Added Pin To Net: NetName=NetPA_4 Pin=U1-15
+Added Net: Name=NetPA_4
+Added Pin To Net: NetName=NetPA_6 Pin=PA-6
+Added Pin To Net: NetName=NetPA_6 Pin=U1-16
+Added Net: Name=NetPA_6
+Added Pin To Net: NetName=NetPA_8 Pin=PA-8
+Added Pin To Net: NetName=NetPA_8 Pin=U1-17
+Added Net: Name=NetPA_8
+Added Pin To Net: NetName=NetPA_10 Pin=PA-10
+Added Pin To Net: NetName=NetPA_10 Pin=U1-20
+Added Net: Name=NetPA_10
+Added Pin To Net: NetName=NetPA_12 Pin=PA-12
+Added Pin To Net: NetName=NetPA_12 Pin=U1-21
+Added Net: Name=NetPA_12
+Added Pin To Net: NetName=NetPA_14 Pin=PA-14
+Added Pin To Net: NetName=NetPA_14 Pin=U1-22
+Added Net: Name=NetPA_14
+Added Pin To Net: NetName=NetPA_16 Pin=PA-16
+Added Pin To Net: NetName=NetPA_16 Pin=U1-23
+Added Net: Name=NetPA_16
+Added Pin To Net: NetName=NetPA_18 Pin=PA-18
+Added Pin To Net: NetName=NetPA_18 Pin=U1-41
+Added Net: Name=NetPA_18
+Added Pin To Net: NetName=NetPA_20 Pin=PA-20
+Added Pin To Net: NetName=NetPA_20 Pin=U1-42
+Added Net: Name=NetPA_20
+Added Pin To Net: NetName=NetPA_22 Pin=PA-22
+Added Pin To Net: NetName=NetPA_22 Pin=U1-43
+Added Net: Name=NetPA_22
+Added Pin To Net: NetName=NetPA_24 Pin=PA-24
+Added Pin To Net: NetName=NetPA_24 Pin=U1-44
+Added Net: Name=NetPA_24
+Added Pin To Net: NetName=NetPA_26 Pin=PA-26
+Added Pin To Net: NetName=NetPA_26 Pin=U1-45
+Added Net: Name=NetPA_26
+Added Pin To Net: NetName=NetPA_28 Pin=PA-28
+Added Pin To Net: NetName=NetPA_28 Pin=U1-46
+Added Net: Name=NetPA_28
+Added Pin To Net: NetName=NetPA_30 Pin=PA-30
+Added Pin To Net: NetName=NetPA_30 Pin=U1-49
+Added Net: Name=NetPA_30
+Added Pin To Net: NetName=NetPA_32 Pin=PA-32
+Added Pin To Net: NetName=NetPA_32 Pin=U1-50
+Added Net: Name=NetPA_32
+Added Pin To Net: NetName=NetPB_2 Pin=PB-2
+Added Pin To Net: NetName=NetPB_2 Pin=U1-26
+Added Net: Name=NetPB_2
+Added Pin To Net: NetName=NetPB_6 Pin=PB-6
+Added Pin To Net: NetName=NetPB_6 Pin=U1-55
+Added Net: Name=NetPB_6
+Added Pin To Net: NetName=NetPB_8 Pin=PB-8
+Added Pin To Net: NetName=NetPB_8 Pin=U1-56
+Added Net: Name=NetPB_8
+Added Pin To Net: NetName=NetPB_10 Pin=PB-10
+Added Pin To Net: NetName=NetPB_10 Pin=U1-57
+Added Net: Name=NetPB_10
+Added Pin To Net: NetName=NetPB_12 Pin=PB-12
+Added Pin To Net: NetName=NetPB_12 Pin=U1-58
+Added Net: Name=NetPB_12
+Added Pin To Net: NetName=NetPB_16 Pin=PB-16
+Added Pin To Net: NetName=NetPB_16 Pin=U1-61
+Added Net: Name=NetPB_16
+Added Pin To Net: NetName=NetPB_18 Pin=PB-18
+Added Pin To Net: NetName=NetPB_18 Pin=U1-28
+Added Net: Name=NetPB_18
+Added Pin To Net: NetName=NetPB_20 Pin=PB-20
+Added Pin To Net: NetName=NetPB_20 Pin=U1-62
+Added Net: Name=NetPB_20
+Added Pin To Net: NetName=NetPB_22 Pin=PB-22
+Added Pin To Net: NetName=NetPB_22 Pin=U1-29
+Added Net: Name=NetPB_22
+Added Pin To Net: NetName=NetPB_24 Pin=PB-24
+Added Pin To Net: NetName=NetPB_24 Pin=U1-30
+Added Net: Name=NetPB_24
+Added Pin To Net: NetName=NetPB_26 Pin=PB-26
+Added Pin To Net: NetName=NetPB_26 Pin=U1-33
+Added Net: Name=NetPB_26
+Added Pin To Net: NetName=NetPB_28 Pin=PB-28
+Added Pin To Net: NetName=NetPB_28 Pin=U1-34
+Added Net: Name=NetPB_28
+Added Pin To Net: NetName=NetPB_30 Pin=PB-30
+Added Pin To Net: NetName=NetPB_30 Pin=U1-35
+Added Net: Name=NetPB_30
+Added Pin To Net: NetName=NetPB_32 Pin=PB-32
+Added Pin To Net: NetName=NetPB_32 Pin=U1-36
+Added Net: Name=NetPB_32

@@ -1,0 +1,13 @@
+Added Component: Designator=U2(CS4344)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=DAC_SD Pin=U2-1
+Added Pin To Net: NetName=DAC_CK Pin=U2-2
+Added Pin To Net: NetName=DAC_WS Pin=U2-3
+Added Pin To Net: NetName=DAC_MCK Pin=U2-4
+Added Pin To Net: NetName=NetC20_2 Pin=U2-5
+Added Pin To Net: NetName=NetC22_1 Pin=U2-6
+Added Pin To Net: NetName=NetC26_1 Pin=U2-7
+Added Pin To Net: NetName=NetC20_1 Pin=U2-8
+Added Pin To Net: NetName=VCC Pin=U2-9
+Added Pin To Net: NetName=NetC25_1 Pin=U2-10
+Added Member To Class: ClassName=mcuCore Member=Component U2 CS4344

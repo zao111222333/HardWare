@@ -1,0 +1,36 @@
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Change Net Name : Old Net Name=NetP2_2 New Net Name=NetBOOT0_2
+Added Member To Class: ClassName=mcuCore Member=Component BOOT0 Header 3
+Added Room: Name=audio
+Added Room: Name=GPIO
+Added Room: Name=irda
+Added Room: Name=mcuCore

@@ -1,0 +1,41 @@
+Change Component Footprint: Designator=R8A Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R8B Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R13 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=D1 Old Footprint=Cap8*14 New Footprint=Cap5x10
+Change Component Designator: OldDesignator=JO32I NewDesignator=J1_OSC32
+Change Component Designator: OldDesignator=JO32O NewDesignator=J2_OSC32
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Room: Name=audio
+Added Room: Name=GPIO
+Added Room: Name=irda_copy
+Added Room: Name=mcuCore
+Added Room: Name=power

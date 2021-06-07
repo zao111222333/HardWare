@@ -1,0 +1,41 @@
+Added Component: Designator=J1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://domino.kycon.com/internet/Products.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "09-May-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AOUTG Pin=J1-1
+Added Pin To Net: NetName=AOUTG Pin=J1-2
+Added Pin To Net: NetName=VCC Pin=J1-3
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Pin To Net: NetName=AOUTR Pin=J_audio-0
+Added Member To Class: ClassName=power Member=Component J1 PWR2.5

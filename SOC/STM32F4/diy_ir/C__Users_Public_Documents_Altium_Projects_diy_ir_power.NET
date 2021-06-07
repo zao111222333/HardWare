@@ -1,0 +1,292 @@
+PARTS LIST
+
+3V3               HDR1X6          3V3
+12V               HDR1X6          12V
+Header 3          HDR1X3          AudioOut
+Header 3          HDR1X3          BOOT0
+Cap2              Cap5x10         C1
+Cap               1608[0603]      C2
+Cap               1608[0603]      C3
+Cap               1608[0603]      C4
+Cap               1608[0603]      C5
+Cap2              Cap5x10         C6
+Cap               1608[0603]      C7
+Cap2              Cap5x10         C8
+Cap2              Cap5x10         C9
+Cap Pol1          Cap8*14         C10
+Cap               1608[0603]      C11
+Cap               1608[0603]      C12
+Cap Pol1          Cap8*14         C13
+Cap               1608[0603]      C16
+Cap               1608[0603]      C17
+Cap               1608[0603]      C18
+Cap               1608[0603]      C19
+Cap               1608[0603]      C20
+Cap2              Cap5x10         C21
+Cap2              Cap5x10         C22
+Cap               1608[0603]      C23
+Cap2              Cap8*14         C24
+Cap2              Cap5x10         C25
+Cap2              Cap5x10         C26
+Cap               1608[0603]      C27
+Cap               1608[0603]      C28
+Cap2              Cap5x10         C29
+Cap2              Cap5x10         C30
+Cap               1608[0603]      C31
+LED0              Cap8*14         D1
+Diode 1N4148      DO-35           D2
+Diode 1N4148      DO-35           D3
+1N5819            3.2X1.6X1.1     D4
+LED1              Cap8*14         D5
+LED1              Cap8*14         D6
+GND               HDR2X6          GND
+Header 16         HDR1X16         GPIO0
+Header 16         HDR1X16         GPIO1
+Header 16         HDR1X16         GPIO2
+HSDL3201          HSDL3201        IRDA
+Header 3X2        HDR2X3          IRDA_Jumper
+Header 3X2        HDR2X3          IRDA_Sta_J
+PWR2.5            PCBComponent_1  J1
+Res3              J1-0603         J1_OSC32
+Res3              J1-0603         J2_OSC32
+Phonejack Stereo SWAudioJack_3F07  J_audio
+Res3              J1-0603         J_VR1_IN
+Res3              J1-0603         J_VR1_OUT
+Header 3X2        HDR2X3          JADC
+Header 3X2        HDR2X3          JAJACK
+Header 3X2        jumper2x3       JAOUT
+Res3              J1-0603         JUSB_DM
+Res3              J1-0603         JUSB_DP
+Res3              J1-0603         JUSB_GND
+Res3              J1-0603         JUSB_OTG
+Res3              J1-0603         JUSB_V5
+Header 3X2        jumper2x3       MCU_JA
+Reset Button      DC_Jack         P1
+Header 3X2        jumper2x3       P8
+Header 3X2        jumper2x3       P9
+Header 3          HDR1X3          PWRJ5
+Res2              AXIAL-0.4       R1
+Res2              J1-0603         R2
+Res2              J1-0603         R3
+R4                J1-0603         R4
+Res2              J1-0603         R5
+Res2              J1-0603         R6
+Res2              J1-0603         R7
+Res2              J1-0603         R8
+Res2              AXIAL-0.4       R8A
+Res2              AXIAL-0.4       R8B
+Res2              J1-0603         R9
+Res2              J1-0603         R10
+Res2              J1-0603         R11
+Res3              J1-0603         R12
+Res2              AXIAL-0.4       R13
+Res3              J1-0603         R13A
+Res3              J1-0603         R13B
+RPot              VR5             R14
+TFBS4711          TFBS4711        TFBS4711
+Part Number: stm32f4x5rgLQFP64-10x10mm  U1
+CS4344            CS4344          U2
+Header 5          Micro_USB       USB
+Volt Reg          SOT223_L        VR1
+XTAL              XTAL_8M         Y1
+XTAL              XTAL_32k        Y2
+EOS
+NET LIST
+
+NODENAME NetC11-2         $
+    C11        2  J_VR1_IN   2  VR1        1
+NODENAME NetC12-2         $
+    C12        2  J_VR1_OUT  1  VR1        3
+NODENAME NetD5-1          $
+    D5         1  R12        2
+NODENAME NetD6-1          $
+    D6         1  R13A       2  R13B       2
+NODENAME +12              $
+    12V        1  12V        2  12V        3  12V        4  12V        5  12V        6  C10        1  D3         2  J_VR1_IN   1  PWRJ5      2  R13A       1  R13B       1
+NODENAME RESET            $
+    C9         1  P1         1  P1         2  R2         1  U1         7
+NODENAME OSC_OUT          $
+    C17        2  U1         6  Y1         2
+NODENAME OSC_IN           $
+    C16        2  U1         5  Y1         1
+NODENAME OSC32_OUT        $
+    C19        2  J2_OSC32   2  Y2         2
+NODENAME OSC32_IN         $
+    C18        2  J1_OSC32   2  Y2         1
+NODENAME NetBOOT0-2       $
+    BOOT0      2  R3         2
+NODENAME NetC6-1          $
+    C6         1  C7         2  R1         2  U1        13
+NODENAME NetC8-1          $
+    C8         1  U1        31  U1        47
+NODENAME NetD4-1          $
+    D4         1  USB        1
+NODENAME NetD4-2          $
+    D4         2  JUSB_V5    2
+NODENAME NetJUSB_DM-2     $
+    JUSB_DM    2  USB        2
+NODENAME NetJUSB_DP-2     $
+    JUSB_DP    2  USB        3
+NODENAME NetJUSB_OTG-2    $
+    JUSB_OTG   2  USB        4
+NODENAME BOOT0            $
+    R3         1  U1        60
+NODENAME +5               $
+    JUSB_V5    1  PWRJ5      1
+NODENAME PA2              $
+    GPIO1     11  IRDA_Jumper6  U1        16
+NODENAME PA3              $
+    GPIO1     10  IRDA_Jumper5  U1        17
+NODENAME PA9              $
+    GPIO0      5  IRDA_Jumper2  U1        42
+NODENAME PA10             $
+    GPIO0      4  IRDA_Jumper1  JUSB_OTG   1  U1        43
+NODENAME NetD1-1          $
+    D1         1  R13        2
+NODENAME NetIRDA-8        $
+    IRDA       8  R8A        1  R8B        1  R14        3  TFBS4711   1
+NODENAME IRDA_TXD         $
+    IRDA       7  IRDA_Jumper4  TFBS4711   2
+NODENAME IRDA_SHOT        $
+    IRDA_Sta_J 3  R13        1
+NODENAME IRDA_SD          $
+    IRDA       5  IRDA_Sta_J 4  TFBS4711   4
+NODENAME IRDA_RXD         $
+    IRDA       6  IRDA_Jumper3  TFBS4711   3
+NODENAME PC15             $
+    GPIO2      2  J1_OSC32   1  U1         4
+NODENAME PC14             $
+    GPIO2      3  J2_OSC32   1  U1         3
+NODENAME PC13             $
+    GPIO2      4  U1         2
+NODENAME I2S3_SD          $
+    GPIO2     12  P9         6  U1        53
+NODENAME PC11             $
+    GPIO2     13  U1        52
+NODENAME I2S3_CK          $
+    GPIO2     14  P9         5  U1        51
+NODENAME PC9              $
+    GPIO0      7  U1        40
+NODENAME PC8              $
+    GPIO0      8  U1        39
+NODENAME I2S3_MCK         $
+    GPIO0      9  P8         5  U1        38
+NODENAME I2S2_MCK         $
+    GPIO0     10  P8         1  U1        37
+NODENAME PC5              $
+    GPIO1      4  IRDA_Sta_J 5  U1        25
+NODENAME PC4              $
+    GPIO1      5  IRDA_Sta_J 1  U1        24
+NODENAME I2S2_SD          $
+    GPIO1     14  P9         2  U1        11
+NODENAME PC2              $
+    GPIO1     15  U1        10
+NODENAME PC1              $
+    GPIO1     16  U1         9
+NODENAME PC0              $
+    GPIO2      1  U1         8
+NODENAME PB15             $
+    GPIO0     11  U1        36
+NODENAME PB14             $
+    GPIO0     12  U1        35
+NODENAME PB13             $
+    GPIO0     13  U1        34
+NODENAME I2S2_WS          $
+    GPIO0     14  P8         2  U1        33
+NODENAME PB11             $
+    GPIO0     15  U1        30
+NODENAME I2S2_CK          $
+    GPIO0     16  P9         1  U1        29
+NODENAME PB9              $
+    GPIO2      5  U1        62
+NODENAME PB8              $
+    GPIO2      6  U1        28
+NODENAME PB7              $
+    GPIO2      7  U1        61
+NODENAME PB6              $
+    GPIO2      8  U1        59
+NODENAME PB5              $
+    GPIO2      9  IRDA_Sta_J 6  U1        58
+NODENAME PB4              $
+    GPIO2     10  IRDA_Sta_J 2  U1        57
+NODENAME PB3              $
+    GPIO2     11  U1        56
+NODENAME PB2              $
+    GPIO1      1  U1        55
+NODENAME PB1              $
+    GPIO1      2  U1        27
+NODENAME PB0              $
+    GPIO1      3  U1        26
+NODENAME PA15             $
+    GPIO2     15  U1        50
+NODENAME PA14             $
+    GPIO2     16  U1        49
+NODENAME PA13             $
+    GPIO0      1  U1        46
+NODENAME PA12             $
+    GPIO0      2  JUSB_DP    1  U1        45
+NODENAME PA11             $
+    GPIO0      3  JUSB_DM    1  U1        44
+NODENAME PA8              $
+    GPIO0      6  U1        41
+NODENAME PA7              $
+    GPIO1      6  U1        23
+NODENAME PA6              $
+    GPIO1      7  U1        22
+NODENAME DAC_OUT2         $
+    GPIO1      8  MCU_JA     5  MCU_JA     6  U1        21
+NODENAME DAC_OUT1         $
+    GPIO1      9  MCU_JA     1  MCU_JA     2  P8         6  U1        20
+NODENAME AIN2_ADC         $
+    GPIO1     12  JADC       4  U1        15
+NODENAME AIN1_ADC         $
+    GPIO1     13  JADC       3  U1        14
+NODENAME VCC              $
+    3V3        1  3V3        2  3V3        3  3V3        4  3V3        5  3V3        6  BOOT0      1  C1         1  C2         2  C3         2  C4         2  C5         2  C13        1  C23        2  C24        1  C31        2  D2         2  D3         1  IRDA       3  J1         1  J1        1A  J1        1B  J_VR1_OUT  2  R1         1  R2         2  R8         1  R8A        2  R8B        2  R10        1  R12        1  R14        1  TFBS4711   5  U1        19  U1        32  U1        48  U1        64  U2         9
+NODENAME NetC20-2         $
+    C20        2  C21        1  U2         5
+NODENAME NetC22-1         $
+    C22        1  U2         6
+NODENAME NetC25-2         $
+    C25        2  R5         2  R7         1
+NODENAME NetC26-2         $
+    C26        2  R4         2  R6         1
+NODENAME NetJ_audio-2     $
+    J_audio    2  J_audio   2A  J_audio   2B  J_audio    5  J_audio   5A  J_audio   5B  JAJACK     3
+NODENAME NetJ_audio-3     $
+    J_audio    3  J_audio   3A  J_audio   3B  J_audio    4  J_audio   4A  J_audio   4B  JAJACK     4
+NODENAME MCU_AOUTR        $
+    JAOUT      2  MCU_JA     4
+NODENAME MCU_AOUTL        $
+    JAOUT      1  MCU_JA     3
+NODENAME GND              $
+    AudioOut   2  BOOT0      3  C1         2  C2         1  C3         1  C4         1  C5         1  C6         2  C7         1  C8         2  C9         2  C10        2  C11        1  C12        1  C13        2  C16        1  C17        1  C18        1  C19        1  C20        1  C21        2  C22        2  C23        1  C24        2  C27        1  C28        1  C31        1  D1         2  D2         1  D5         2  D6         2  GND        1  GND        2  GND        3  GND        4  GND        5  GND        6  GND        7  GND        8  GND        9  GND       10  GND       11  GND       12  IRDA       1  IRDA       2  IRDA       4  IRDA       9  J1         2  J1        2A  J1        2B  J1         3  J1        3A  J1        3B  J_audio    1  J_audio   1A  J_audio   1B  JUSB_GND   1  JUSB_GND   2  P1         3  P1         4  R4         1  R5         1  R9         2  R11        2  R14        2  TFBS4711   6  U1        12  U1        18  U1        63  U2         8  USB        5  VR1        2
+NODENAME DAC_WS           $
+    P8         4  U2         3
+NODENAME DAC_SD           $
+    P9         4  U2         1
+NODENAME DAC_MCK          $
+    P8         3  U2         4
+NODENAME DAC_CK           $
+    P9         3  U2         2
+NODENAME DAC_AOUTR        $
+    JAOUT      6  U2        10
+NODENAME DAC_AOUTL        $
+    JAOUT      5  U2         7
+NODENAME AOUTR_B          $
+    C25        1  JAOUT      4
+NODENAME AOUTR            $
+    AudioOut   3  C28        2  JAJACK     1  R7         2
+NODENAME AOUTL_B          $
+    C26        1  JAOUT      3
+NODENAME AOUTL            $
+    AudioOut   1  C27        2  JAJACK     2  R6         2
+NODENAME AIN2_BIAS        $
+    C30        1  JADC       2  R10        2  R11        1
+NODENAME AIN2             $
+    C30        2  JADC       6  JAJACK     6
+NODENAME AIN1_BIAS        $
+    C29        1  JADC       1  R8         2  R9         1
+NODENAME AIN1             $
+    C29        2  JADC       5  JAJACK     5
+EOS

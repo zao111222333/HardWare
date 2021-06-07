@@ -1,0 +1,15 @@
+Added Component: Designator=J1(AudioJack_3F07)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://domino.kycon.com/internet/Products.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "07-Mar-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "PCB Footprint replaced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "5-Jan-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AOUTG Pin=J1-1
+Added Pin To Net: NetName=AOUTR Pin=J1-2
+Added Pin To Net: NetName=AOUTL Pin=J1-3
+Added Pin To Net: NetName=AOUTL Pin=J1-4
+Added Pin To Net: NetName=AOUTR Pin=J1-5
+Added Member To Class: ClassName=mcuCore Member=Component J1 Phonejack Stereo SW

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=OSC32_IN Pin=C19-2
+Removed Pin From Net: NetName=OSC32_IN Pin=PC-31
+Removed Pin From Net: NetName=OSC32_IN Pin=PC-32
+Removed Pin From Net: NetName=OSC32_IN Pin=U1-4
+Removed Pin From Net: NetName=OSC32_IN Pin=Y2-2
+Added Pin To Net: NetName=OSC32_OUT Pin=C19-2
+Added Pin To Net: NetName=OSC32_OUT Pin=PC-31
+Added Pin To Net: NetName=OSC32_OUT Pin=PC-32
+Added Pin To Net: NetName=OSC32_OUT Pin=U1-4
+Added Pin To Net: NetName=OSC32_OUT Pin=Y2-2
+Added Net: Name=OSC32_OUT

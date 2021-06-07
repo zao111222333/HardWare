@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=VCC Pin=R14-1
+Removed Pin From Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=VCC Pin=R14-2
+Added Room: Name=audio
+Added Room: Name=GPIO
+Added Room: Name=irda_copy
+Added Room: Name=mcuCore
+Added Room: Name=power

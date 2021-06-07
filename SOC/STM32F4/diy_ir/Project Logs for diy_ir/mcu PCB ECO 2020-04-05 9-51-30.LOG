@@ -1,0 +1,116 @@
+Removed Pin From Net: NetName=GND Pin=IRDA-1
+Removed Pin From Net: NetName=GND Pin=IRDA-2
+Removed Pin From Net: NetName=VCC Pin=IRDA-3
+Removed Pin From Net: NetName=GND Pin=IRDA-4
+Removed Pin From Net: NetName=IRDA_SD Pin=IRDA-5
+Removed Pin From Net: NetName=IRDA_RXD Pin=IRDA-6
+Removed Pin From Net: NetName=IRDA_TXD Pin=IRDA-7
+Removed Pin From Net: NetName=NetIRDA_8 Pin=IRDA-8
+Removed Pin From Net: NetName=+12 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=JUSB_GND-2
+Removed Pin From Net: NetName=NetIRDA_8 Pin=TFBS4711-1
+Removed Pin From Net: NetName=IRDA_TXD Pin=TFBS4711-2
+Removed Pin From Net: NetName=IRDA_RXD Pin=TFBS4711-3
+Removed Pin From Net: NetName=IRDA_SD Pin=TFBS4711-4
+Removed Pin From Net: NetName=VCC Pin=TFBS4711-5
+Removed Pin From Net: NetName=GND Pin=TFBS4711-6
+Removed Pin From Net: NetName=NetD4_1 Pin=USB-1
+Removed Pin From Net: NetName=NetJUSB_DM_2 Pin=USB-2
+Removed Pin From Net: NetName=NetJUSB_OTG_2 Pin=USB-4
+Removed Pin From Net: NetName=GND Pin=USB-5
+Added Component: Designator=JIRDA(HDR2X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_3 Pin=J_audio-0
+Added Pin To Net: NetName=NetIRDA_8 Pin=JIRDA-1
+Added Pin To Net: NetName=IRDA_TXD Pin=JIRDA-3
+Added Pin To Net: NetName=IRDA_RXD Pin=JIRDA-5
+Added Pin To Net: NetName=IRDA_SD Pin=JIRDA-7
+Added Pin To Net: NetName=VCC Pin=JIRDA-11
+Added Pin To Net: NetName=NetJUSB_OTG_2 Pin=USB-2
+Added Pin To Net: NetName=NetJUSB_DM_2 Pin=USB-4
+Added Pin To Net: NetName=NetD4_1 Pin=USB-5
+Change Net Name : Old Net Name=NetIRDA_8 New Net Name=NetJIRDA_1
+Added Pin To Net: NetName=NetIRDA_1 Pin=IRDA-1
+Added Pin To Net: NetName=NetIRDA_1 Pin=JIRDA-16
+Added Pin To Net: NetName=NetIRDA_1 Pin=TFBS4711-6
+Added Net: Name=NetIRDA_1
+Added Pin To Net: NetName=NetIRDA_2 Pin=IRDA-2
+Added Pin To Net: NetName=NetIRDA_2 Pin=JIRDA-14
+Added Net: Name=NetIRDA_2
+Added Pin To Net: NetName=NetIRDA_3 Pin=IRDA-3
+Added Pin To Net: NetName=NetIRDA_3 Pin=JIRDA-12
+Added Pin To Net: NetName=NetIRDA_3 Pin=TFBS4711-5
+Added Net: Name=NetIRDA_3
+Added Pin To Net: NetName=NetIRDA_4 Pin=IRDA-4
+Added Pin To Net: NetName=NetIRDA_4 Pin=JIRDA-10
+Added Net: Name=NetIRDA_4
+Added Pin To Net: NetName=NetIRDA_5 Pin=IRDA-5
+Added Pin To Net: NetName=NetIRDA_5 Pin=JIRDA-8
+Added Pin To Net: NetName=NetIRDA_5 Pin=TFBS4711-4
+Added Net: Name=NetIRDA_5
+Added Pin To Net: NetName=NetIRDA_6 Pin=IRDA-6
+Added Pin To Net: NetName=NetIRDA_6 Pin=JIRDA-6
+Added Pin To Net: NetName=NetIRDA_6 Pin=TFBS4711-2
+Added Pin To Net: NetName=NetIRDA_6 Pin=TFBS4711-3
+Added Net: Name=NetIRDA_6
+Added Pin To Net: NetName=NetIRDA_7 Pin=IRDA-7
+Added Pin To Net: NetName=NetIRDA_7 Pin=JIRDA-4
+Added Net: Name=NetIRDA_7
+Added Pin To Net: NetName=NetIRDA_8 Pin=IRDA-8
+Added Pin To Net: NetName=NetIRDA_8 Pin=JIRDA-2
+Added Pin To Net: NetName=NetIRDA_8 Pin=TFBS4711-1
+Added Net: Name=NetIRDA_8
+Added Pin To Net: NetName=NetJIRDA_9 Pin=JIRDA-9
+Added Pin To Net: NetName=NetJIRDA_9 Pin=JIRDA-13
+Added Pin To Net: NetName=NetJIRDA_9 Pin=JIRDA-15
+Added Net: Name=NetJIRDA_9
+Added Pin To Net: NetName=NetJUSB_GND_2 Pin=JUSB_GND-2
+Added Pin To Net: NetName=NetJUSB_GND_2 Pin=USB-1
+Added Net: Name=NetJUSB_GND_2
+Added Member To Class: ClassName=power Member=Component 3V3
+Added Member To Class: ClassName=irda Member=Component JIRDA Header 8X2
+Added Member To Class: ClassName=mcuCore Member=Component JUSB_DM Res3
+Added Member To Class: ClassName=mcuCore Member=Component JUSB_DP Res3
+Added Member To Class: ClassName=mcuCore Member=Component JUSB_GND Res3
+Added Member To Class: ClassName=mcuCore Member=Component JUSB_OTG Res3
+Added Member To Class: ClassName=mcuCore Member=Component JUSB_V5 Res3
+Added Room: Name=audio
+Added Room: Name=GPIO
+Added Room: Name=irda
+Added Room: Name=mcuCore
+Added Room: Name=power

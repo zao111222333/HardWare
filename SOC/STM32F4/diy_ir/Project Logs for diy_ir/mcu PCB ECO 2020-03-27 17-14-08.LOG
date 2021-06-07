@@ -1,0 +1,42 @@
+Removed Member From Class: ClassName=audio Member=C31
+Removed Member From Class: ClassName=audio Member=R13
+Removed Member From Class: ClassName=audio Member=R14
+Change Component Footprint: Designator=USB Old Footprint=HDR1X5 New Footprint=Micro_USB
+Change Component Designator: OldDesignator=+12 NewDesignator=D6
+Change Component Designator: OldDesignator=3V3 NewDesignator=D5
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=GND Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Pin To Net: NetName=NetJ_audio_2 Pin=J_audio-0
+Added Member To Class: ClassName=audio Member=Component C29 Cap2
+Added Member To Class: ClassName=power Member=Component D5 LED1
+Added Member To Class: ClassName=audio Member=Component R9 Res2
+Added Member To Class: ClassName=audio Member=Component R10 Res2
+Added Room: Name=GPIO
+Added Room: Name=irda

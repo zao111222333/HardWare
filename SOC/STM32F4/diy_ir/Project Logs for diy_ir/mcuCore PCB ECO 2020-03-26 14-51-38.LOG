@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=I2S2_WS Pin=-2
+Removed Pin From Net: NetName=DAC_MCK Pin=-3
+Removed Pin From Net: NetName=DAC_WS Pin=-4
+Removed Pin From Net: NetName=I2S3_MCK Pin=-5
+Removed Pin From Net: NetName=I2S2_SD Pin=P3-2
+Removed Pin From Net: NetName=DAC_CK Pin=P3-3
+Removed Pin From Net: NetName=DAC_SD Pin=P3-4
+Removed Pin From Net: NetName=I2S3_CK Pin=P3-5
+Change Component Designator: OldDesignator= NewDesignator=P4
+Added Pin To Net: NetName=DAC_CK Pin=P3-2
+Added Pin To Net: NetName=I2S3_CK Pin=P3-3
+Added Pin To Net: NetName=I2S2_SD Pin=P3-4
+Added Pin To Net: NetName=DAC_SD Pin=P3-5
+Added Pin To Net: NetName=DAC_MCK Pin=P4-2
+Added Pin To Net: NetName=I2S3_MCK Pin=P4-3
+Added Pin To Net: NetName=I2S2_WS Pin=P4-4
+Added Pin To Net: NetName=DAC_WS Pin=P4-5

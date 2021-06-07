@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAPR5-4X5 New Footprint=Cap5x10
+Change Component Footprint: Designator=C6 Old Footprint=CAPR5-4X5 New Footprint=Cap5x10
+Change Component Footprint: Designator=C8 Old Footprint=CAPR5-4X5 New Footprint=Cap5x10
+Change Component Footprint: Designator=C9 Old Footprint=CAPR5-4X5 New Footprint=Cap5x10
+Added Member To Class: ClassName=mcuCore Member=Component C1 Cap2
+Added Member To Class: ClassName=mcuCore Member=Component C2 Cap
+Added Member To Class: ClassName=mcuCore Member=Component C3 Cap
+Added Member To Class: ClassName=mcuCore Member=Component C4 Cap
+Added Member To Class: ClassName=mcuCore Member=Component C5 Cap
+Added Member To Class: ClassName=mcuCore Member=Component C6 Cap2
+Added Member To Class: ClassName=mcuCore Member=Component C7 Cap
+Added Member To Class: ClassName=mcuCore Member=Component C8 Cap2
+Added Member To Class: ClassName=mcuCore Member=Component C9 Cap2
+Added Member To Class: ClassName=mcuCore Member=Component P1 Reset Button
+Added Member To Class: ClassName=mcuCore Member=Component P2 Header 3
+Added Member To Class: ClassName=mcuCore Member=Component R1 Res2
+Added Member To Class: ClassName=mcuCore Member=Component R2 Res2
+Added Member To Class: ClassName=mcuCore Member=Component U1 Part Number: stm32f4x5rg

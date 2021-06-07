@@ -1,0 +1,67 @@
+Added Component: Designator=P4(jumper2x3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P5(HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P6(HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=I2S2_MCK Pin=P4-1
+Added Pin To Net: NetName=DAC_MCK Pin=P4-2
+Added Pin To Net: NetName=I2S3_MCK Pin=P4-3
+Added Pin To Net: NetName=I2S2_WS Pin=P4-4
+Added Pin To Net: NetName=DAC_WS Pin=P4-5
+Added Pin To Net: NetName=DAC_OUT1 Pin=P4-6
+Added Pin To Net: NetName=+12 Pin=P5-1
+Added Pin To Net: NetName=+12 Pin=P5-2
+Added Pin To Net: NetName=+12 Pin=P5-3
+Added Pin To Net: NetName=+12 Pin=P5-4
+Added Pin To Net: NetName=+12 Pin=P5-5
+Added Pin To Net: NetName=+12 Pin=P5-6
+Added Pin To Net: NetName=VCC Pin=P6-1
+Added Pin To Net: NetName=VCC Pin=P6-2
+Added Pin To Net: NetName=VCC Pin=P6-3
+Added Pin To Net: NetName=VCC Pin=P6-4
+Added Pin To Net: NetName=VCC Pin=P6-5
+Added Pin To Net: NetName=VCC Pin=P6-6
+Added Member To Class: ClassName=audio Member=Component P4 Header 3X2
+Added Member To Class: ClassName=audio Member=Component P5 Header 3X2
+Added Member To Class: ClassName=power Member=Component P5 12V
+Added Member To Class: ClassName=power Member=Component P6 3V3

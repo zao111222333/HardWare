@@ -1,0 +1,42 @@
+Change Component Designator: OldDesignator=P3 NewDesignator=P5
+Change Component Designator: OldDesignator=P4 NewDesignator=P6
+Change Component Designator: OldDesignator=P5 NewDesignator=P7
+Added Pin To Net: NetName=12V Pin=C10-1
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTG Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=AOUTL Pin=J_audio-0
+Added Pin To Net: NetName=12V Pin=J_VR1_IN-1
+Added Pin To Net: NetName=VCC Pin=P6-1
+Added Pin To Net: NetName=VCC Pin=P6-2
+Added Pin To Net: NetName=VCC Pin=P6-3
+Added Pin To Net: NetName=VCC Pin=P6-4
+Added Pin To Net: NetName=VCC Pin=P6-5
+Added Pin To Net: NetName=VCC Pin=P6-6
+Change Net Name : Old Net Name=12V New Net Name=+12
