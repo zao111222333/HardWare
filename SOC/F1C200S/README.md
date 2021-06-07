@@ -21,11 +21,11 @@ https://mangopi.org/tiny200
 | [04](#04-Tiny200s) | Tiny200s | F1C200S |LCEDA | ✓ | ✓ | ✓ |
 | [05](#05-F1C200S-BL) | F1C200S-BL | F1C200S | AD | ✓ | ✓ | ✓ |
 | [06](#06-F1C200S-STD) | F1C200S-STD | F1C200S | orCAD PADS | ✓ | ✓ | ✓ |
-| [07](#07-F1C100S-MY) | F1C100S-MY | F1C100S | ? | ✓ | ✓ | × |
+| [07](#07-F1C100S-MY) | F1C100S-MY | F1C100S | AD | ✓ | ✓ | × |
 | [08](#08-M5Pi) | M5Pi | F1C200S | ? | ✓ | × | ✓ |
 | [09](#09-F1C200S-HDK) | F1C200S-HDK | F1C200S | KiCAD | ✓ | ✓ | ✓ |
 | [10](#10-LinuxCard-nano) | LinuxCard-nano | F1C200S | LCEDA | ✓ | ✓ | ✓ |
-| [11](#11-F1C200S-CORE) | F1C200S-CORE | F1C200S | ? | ✓ | ✓ | ✓ |
+| [11](#11-F1C200S-CORE) | F1C200S-CORE | F1C200S | KiCAD | ✓ | ✓ | ✓ |
 
 
 ### 00 [MangoPi-R3](HW/MangoPi-R3)
