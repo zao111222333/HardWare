@@ -1,5 +1,6 @@
 # RK3399
 
+![image](https://user-images.githubusercontent.com/57790433/121071943-2bc94580-c803-11eb-8596-d739a0b878d6.png)
 
 
 [瑞芯微RK原厂3399+LPDDR4 200球参考原理图 PCB Allegro](https://download.csdn.net/download/layuetian2011/11112028)
