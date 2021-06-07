@@ -20,10 +20,12 @@ https://mangopi.org/tiny200
 | [03](#03-MiniX) | MiniX | F1C100S | LCEDA | ✓ | ✓ | ✓ |
 | [04](#04-Tiny200s) | Tiny200s | F1C200S |LCEDA | ✓ | ✓ | ✓ |
 | [05](#05-F1C200S-BL) | F1C200S-BL | F1C200S | AD | ✓ | ✓ | ✓ |
-| [06](#06-全志F1C200s公版原理图与PCB) | 公板 | F1C200S | orCAD PADS | ✓ | ✓ | ✓ |
-| [07](#07-F1C100S-MY) | F1C100S-MY | F1C100S | orCAD PADS | ✓ | ✓ | ✓ |
-| [08](#08-M5Pi) | M5Pi | F1C200S | ? | × | × | ✓ |
-| [09](#F1C200S-HDK) | F1C200S-HDK | F1C200S | KiCAD | ✓ | ✓ | ✓ |
+| [06](#06-F1C200S-DEMO) | 公板DEMO | F1C200S | orCAD PADS | ✓ | ✓ | ✓ |
+| [07](#07-F1C100S-MY) | F1C100S-MY | F1C100S | ? | ✓ | ✓ | × |
+| [08](#08-M5Pi) | M5Pi | F1C200S | ? | ✓ | × | ✓ |
+| [09](#09-F1C200S-HDK) | F1C200S-HDK | F1C200S | KiCAD | ✓ | ✓ | ✓ |
+| [10](#10-LinuxCard-nano) | LinuxCard-nano | F1C200S | LCEDA | ✓ | ✓ | ✓ |
+| [11](#11-F1C200S-CORE) | F1C200S-CORE | F1C200S | ? | ✓ | ✓ | ✓ |
 
 
 ### 00 [MangoPi-R3](MangoPi-R3)
@@ -38,6 +40,9 @@ https://mangopi.org/tiny200
 
 ### 01 [BoloPi](BoloPi)
 #### [返回目录](#硬件)
+https://whycan.com/t_2788.html
+
+https://github.com/VeiLiang/BoloPi_PCB
 
 <img src="https://raw.githubusercontent.com/VeiLiang/BoloPi_PCB/master/BoLoPi-F1_V4_Real.jpg" alt="BoloPi" width="300"/>
 <img src="https://user-images.githubusercontent.com/57790433/120938775-34f4dc80-c747-11eb-8009-409c57fc17c7.png" alt="BoloPi" width="300"/>
@@ -76,7 +81,7 @@ https://whycan.com/t_2094.html
 
 ***
 
-### 04 [Tiny200s](https://oshwhub.com/LSW12315/f1c100score_copy_copy)
+### 04 [Tiny200s](Tiny200s)
 #### [返回目录](#硬件)
 
 https://oshwhub.com/LSW12315/f1c100score_copy_copy
@@ -95,12 +100,15 @@ https://whycan.com/t_5771.html
 
 ***
 
-### 06 [全志F1C200s公版原理图与PCB](https://bbs.16rd.com/thread-533554-1-1.html)
+### 06 [F1C200S-DEMO](F1C200S-DEMO)
 #### [返回目录](#硬件)
+https://whycan.com/p_64201.html
+
+<img src="https://user-images.githubusercontent.com/57790433/120951957-9c794f00-c77c-11eb-8802-698758a3a627.png" alt="F1C200S-DEMO" width="300"/>
 
 ***
 
-### 07 [F1C100S-MY](https://whycan.com/t_3926.html)
+### 07 [F1C100S-MY](F1C100S-MY)
 #### [返回目录](#硬件)
 
 https://whycan.com/t_3926.html
@@ -111,8 +119,9 @@ https://whycan.com/t_3926.html
 
 ***
 
-### 08 [M5Pi](https://whycan.com/t_6402.html)
+### 08 [M5Pi](M5Pi)
 #### [返回目录](#硬件)
+https://whycan.com/t_6402.html
 
 <img src="https://user-images.githubusercontent.com/57790433/120941149-b5213f00-c753-11eb-98c4-b7913b82c9ee.png" alt="MangoPi-R3" width="300"/>
 
@@ -125,3 +134,18 @@ https://whycan.cn/t_3688.html
 <img src="https://user-images.githubusercontent.com/57790433/120946331-aa27d800-c76e-11eb-845a-0c536c9e6fc2.png" alt="F1C200S-HDK" width="300"/>
 
 <img src="https://user-images.githubusercontent.com/57790433/120946337-adbb5f00-c76e-11eb-919e-f56560b38b4b.png" alt="F1C200S-HDK" width="300"/>
+
+### 10 [LinuxCard-nano](LinuxCard-nano)
+#### [返回目录](#硬件)
+https://whycan.com/t_6349.html
+
+<img src="https://user-images.githubusercontent.com/57790433/120950872-3ee40300-c77a-11eb-9aba-92e650686cd4.png" alt="LinuxCard-nano" width="300"/>
+<img src="https://user-images.githubusercontent.com/57790433/120950895-499e9800-c77a-11eb-8cb2-f1d2137b6ee7.png" alt="LinuxCard-nano" width="300"/>
+<img src="https://user-images.githubusercontent.com/57790433/120950908-4e634c00-c77a-11eb-9d1a-b4b08accba9c.png" alt="LinuxCard-nano" width="300"/>
+
+
+### 11 [F1C200S-CORE](F1C200S-CORE)
+#### [返回目录](#硬件)
+https://whycan.com/t_5347.html
+
+<img src="https://user-images.githubusercontent.com/57790433/120951163-caf62a80-c77a-11eb-88d9-812f8cecae0f.png" alt="LinuxCard-nano" width="300"/>
