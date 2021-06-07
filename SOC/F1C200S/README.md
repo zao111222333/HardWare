@@ -19,7 +19,7 @@ https://mangopi.org/tiny200
 | [02](#02-名片) | 名片 | F1C100S | KiCAD | ✓ | × | ✓ |
 | [03](#03-F1C100S原理图PCB可直接打样) | N/A | F1C100S | LCEDA | ✓ | ✓ | ✓ |
 | [04](#04-Tiny200s) | Tiny200s | F1C200S |LCEDA | ✓ | ✓ | ✓ |
-| [05](#05-新作F1C200S) | N/A  | F1C200S | ? | ✓ | ✓ | ✓ |
+| [05](#05-F1C200S-BL) | F1C200S-BL | F1C200S | AD | ✓ | ✓ | ✓ |
 | [06](#06-全志F1C200s公版原理图与PCB) | 公板 | F1C200S | orCAD PADS | ✓ | ✓ | ✓ |
 | [07](#07-F1C100S-MY) | F1C100S-MY | F1C200S | orCAD PADS | ✓ | ✓ | ✓ |
 | [08](#08-M5Pi) | M5Pi | F1C200S | ? | × | × | ✓ |
@@ -76,12 +76,17 @@ https://www.thirtythreeforty.net/media/Allwinner_F1C600_User_Manual_V1.0.pdf
 
 ### 04 [Tiny200s](https://oshwhub.com/LSW12315/f1c100score_copy_copy)
 #### [返回目录](#硬件)
+
+https://oshwhub.com/LSW12315/f1c100score_copy_copy
+
 <img src="https://image.lceda.cn/pullimage/MDXCONtl8z2ihsV57AZ0gjpPHu1tddpicxI6iONu.jpeg" alt="Tiny200" width="300"/>
 
 ***
 
-### 05 [新作F1C200S](https://bbs.16rd.com/thread-569802-1-1.html)
+### 05 [F1C200S-BL](F1C200S-BL)
 #### [返回目录](#硬件)
+
+https://whycan.com/t_5771.html
 <img src="https://user-images.githubusercontent.com/57790433/120940217-c3b92780-c74e-11eb-949f-750b26218122.png" alt="N/A" width="300"/>
 
 ***
