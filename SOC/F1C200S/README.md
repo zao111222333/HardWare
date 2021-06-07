@@ -38,7 +38,7 @@ https://mangopi.org/tiny200
 
 ***
 
-### 01 [BoloPi](BoloPi)
+### 01 [BoloPi](HW/BoloPi)
 #### [返回目录](#硬件)
 https://whycan.com/t_2788.html
 
@@ -71,7 +71,7 @@ https://www.thirtythreeforty.net/media/Allwinner_F1C600_User_Manual_V1.0.pdf
 
 ***
 
-### 03 [MiniX](MiniX)
+### 03 [MiniX](HW/MiniX)
 #### [返回目录](#硬件)
 https://whycan.com/t_2094.html
 
@@ -81,7 +81,7 @@ https://whycan.com/t_2094.html
 
 ***
 
-### 04 [Tiny200s](Tiny200s)
+### 04 [Tiny200s](HW/Tiny200s)
 #### [返回目录](#硬件)
 
 https://oshwhub.com/LSW12315/f1c100score_copy_copy
@@ -90,7 +90,7 @@ https://oshwhub.com/LSW12315/f1c100score_copy_copy
 
 ***
 
-### 05 [F1C200S-BL](F1C200S-BL)
+### 05 [F1C200S-BL](HW/F1C200S-BL)
 #### [返回目录](#硬件)
 https://whycan.com/t_5841.html
 
@@ -100,7 +100,7 @@ https://whycan.com/t_5771.html
 
 ***
 
-### 06 [F1C200S-DEMO](F1C200S-DEMO)
+### 06 [F1C200S-DEMO](HW/F1C200S-DEMO)
 #### [返回目录](#硬件)
 https://whycan.com/p_64201.html
 
@@ -108,7 +108,7 @@ https://whycan.com/p_64201.html
 
 ***
 
-### 07 [F1C100S-MY](F1C100S-MY)
+### 07 [F1C100S-MY](HW/F1C100S-MY)
 #### [返回目录](#硬件)
 
 https://whycan.com/t_3926.html
@@ -119,13 +119,13 @@ https://whycan.com/t_3926.html
 
 ***
 
-### 08 [M5Pi](M5Pi)
+### 08 [M5Pi](HW/M5Pi)
 #### [返回目录](#硬件)
 https://whycan.com/t_6402.html
 
 <img src="https://user-images.githubusercontent.com/57790433/120941149-b5213f00-c753-11eb-98c4-b7913b82c9ee.png" alt="MangoPi-R3" width="300"/>
 
-### 09 [F1C200S-HDK](F1C200S-HDK)
+### 09 [F1C200S-HDK](HW/F1C200S-HDK)
 #### [返回目录](#硬件)
 https://whycan.cn/t_3688.html
 
@@ -135,7 +135,7 @@ https://whycan.cn/t_3688.html
 
 <img src="https://user-images.githubusercontent.com/57790433/120946337-adbb5f00-c76e-11eb-919e-f56560b38b4b.png" alt="F1C200S-HDK" width="300"/>
 
-### 10 [LinuxCard-nano](LinuxCard-nano)
+### 10 [LinuxCard-nano](HW/LinuxCard-nano)
 #### [返回目录](#硬件)
 https://whycan.com/t_6349.html
 
@@ -144,7 +144,7 @@ https://whycan.com/t_6349.html
 <img src="https://user-images.githubusercontent.com/57790433/120950908-4e634c00-c77a-11eb-9d1a-b4b08accba9c.png" alt="LinuxCard-nano" width="300"/>
 
 
-### 11 [F1C200S-CORE](F1C200S-CORE)
+### 11 [F1C200S-CORE](HW/F1C200S-CORE)
 #### [返回目录](#硬件)
 https://whycan.com/t_5347.html
 
