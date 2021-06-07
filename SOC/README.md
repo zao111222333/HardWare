@@ -1,7 +1,7 @@
 # SOC
 
-| Module | | |
-| :-: | :-: | :-: |
+| Module | | CPU | GPU |
+| :-: | :-: | :-: | :-: |
 | AMLogic | [A311D](SOC/A311D) |  |
 | Rock-Chips | [RK3399](SOC/RK3399) |  |
 |     | [RK3308](SOC/RK3399) |  |
